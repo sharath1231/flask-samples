@@ -1,7 +1,7 @@
 # flask-samples
 
-# Requirements to run this project
-1. Install / Setup python3 on your laptop.
+## Requirements to run this project
+1. Setup python3 on your laptop.
 2. Install virtualenv.
 3. Install virtualenv for python3. 
 Refer this site for installing the above components: https://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/
