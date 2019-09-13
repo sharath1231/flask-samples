@@ -6,6 +6,8 @@ from flask import Flask
 # initialize a flask app
 app = Flask(__name__)
 
+
+
 # create a default route at '/'
 # This is called a GET request. Other types of requests that will be useful are PUT, POST, DELETE.
 @app.route('/')
