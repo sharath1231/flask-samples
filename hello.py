@@ -18,6 +18,8 @@ def hello():
     1. how to add endpoints in flask. 
     2. how to add parameters in a web url.
 '''
-
+@app.route ('/user/<username>')
+def hellouser(username):
+    return "Hello " + username
 if __name__ == '__main__':
     app.run()
